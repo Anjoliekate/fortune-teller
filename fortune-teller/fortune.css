@@ -1,0 +1,49 @@
+/* SE 3200 CSS
+*/
+#my-list {
+  list-style-type: none;
+}
+h1 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 50px;
+  color: black;
+}
+
+body {
+  background-color: #ffdfd3;
+}
+
+.user-input {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: auto;
+  margin-top: 50px;
+  border-radius: 500px;
+}
+li {
+  text-align: center;
+  padding-right: 35px;
+}
+.questions {
+  text-align: center;
+  margin-top: 20px;
+  font-size: x-large;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.banner-text {
+  position: absolute;
+  bottom: 18%;
+  left: 50%;
+  translate: -50%;
+}
